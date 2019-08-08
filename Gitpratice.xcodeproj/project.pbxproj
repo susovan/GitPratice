@@ -19,6 +19,7 @@
 		F78888E222FBF4CD0049A8FC /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78888E122FBF4CD0049A8FC /* ViewController2.swift */; };
 		F78888E422FBF7DC0049A8FC /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78888E322FBF7DC0049A8FC /* ViewController3.swift */; };
 		F78888E622FBFEE10049A8FC /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78888E522FBFEE10049A8FC /* ViewController4.swift */; };
+		F78888EC22FC07140049A8FC /* ViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = F78888EB22FC07140049A8FC /* ViewController5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		F78888E122FBF4CD0049A8FC /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		F78888E322FBF7DC0049A8FC /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
 		F78888E522FBFEE10049A8FC /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
+		F78888EB22FC07140049A8FC /* ViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController5.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				F78888E122FBF4CD0049A8FC /* ViewController2.swift */,
 				F78888E322FBF7DC0049A8FC /* ViewController3.swift */,
 				F78888E522FBFEE10049A8FC /* ViewController4.swift */,
+				F78888EB22FC07140049A8FC /* ViewController5.swift */,
 				F70D65CC22FBED5B0067DE3F /* Main.storyboard */,
 				F70D65D222FBED5D0067DE3F /* Assets.xcassets */,
 				F70D65D422FBED5D0067DE3F /* LaunchScreen.storyboard */,
@@ -275,6 +278,7 @@
 				F78888E622FBFEE10049A8FC /* ViewController4.swift in Sources */,
 				F70D65CB22FBED5B0067DE3F /* ViewController.swift in Sources */,
 				F78888E422FBF7DC0049A8FC /* ViewController3.swift in Sources */,
+				F78888EC22FC07140049A8FC /* ViewController5.swift in Sources */,
 				F70D65D122FBED5B0067DE3F /* Gitpratice.xcdatamodeld in Sources */,
 				F70D65C922FBED5B0067DE3F /* AppDelegate.swift in Sources */,
 				F78888E022FBF29F0049A8FC /* HomeViewController.swift in Sources */,
